@@ -85,7 +85,7 @@ WSGI_APPLICATION = 'djoverheroku.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg',
+        'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'dagg0sfh9fjnds',
         'USER': 'tarpjcphvxslrj',
         'PASSWORD': '31025e5650855fdb5ec58d125eaba22e1ddffd17df88da0b8aec0b53c8dd5ef7',
